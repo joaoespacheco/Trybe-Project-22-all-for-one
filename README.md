@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante o módulo de back-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/).
 
-Neste projeto através de queries SQL realizamos a manipulação e filtragem de um banco de dados prévimante implementado.
+Neste projeto através de queries SQL realizamos a manipulação e filtragem de informações de um banco de dados prévimante implementado.
 
 </br>
 <details>
