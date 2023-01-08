@@ -10,6 +10,9 @@ Neste projeto através de queries SQL realizamos a manipulação e filtragem de 
 <details>
 <summary><strong>Desempenho</strong></summary>
 Aprovado com 100% de desempenho em todos os requisitos
+
+![image](https://user-images.githubusercontent.com/99846604/211221409-b972cb87-626d-42f6-b8db-9efc04e7f9be.png)
+
 </details>
 
 <details>
@@ -55,6 +58,35 @@ Desafio de manipulação de tabela: </br>
 </br>
 </details>
 </br>
+
+## ⚙️ Execução
+
+Para executar a aplicação inicie realizando o clone deste repositório com o comando abaixo:
+
+    git clone git@github.com:joaoespacheco/Trybe-Project-22-all-for-one.git
+    
+Instale as dependências dos projeto com o comando abaixo:
+
+        npm install
+
+<details>
+   <summary><strong>Rodando a aplicação com o Docker</strong></summary> 
+  </br>
+  
+  <strong>Obs:</strong> Para rodar a aplicação dessa forma você deve ter o [Docker](https://www.docker.com/) instalado na sua máquina.
+  
+  </br>
+  
+  Na pasta do projeto, suba os containers <strong>node</strong> e <strong>db</strong> utilizando o docker-compose.yml. 
+  
+Utilize o comando abaixo.
+
+        docker-compose up -d
+
+Utilize o script northwind.sql para popular o banco de dados.
+
+</details>
+<br/>
 
 ## 🤹🏽 Habilidades Desenvolvidas:
 * Criar queries SQL
