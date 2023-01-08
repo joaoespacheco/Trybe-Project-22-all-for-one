@@ -77,7 +77,7 @@ Instale as dependências dos projeto com o comando abaixo:
   
   </br>
   
-  Na pasta do projeto, suba os containers <strong>node</strong> e <strong>db</strong> utilizando o docker-compose.yml. 
+  Na pasta do projeto, suba os containers <strong>all_for_one</strong> e <strong>all_for_one_db</strong> utilizando o docker-compose.yml. 
   
 Utilize o comando abaixo.
 
